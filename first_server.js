@@ -40,4 +40,4 @@ const PORT=3002;
 server.listen(PORT,()=>{
     console.log('server runing on address http://localhost:${PORT}')
 
-});
+});//server call------>localhost as 3002,3003.....
